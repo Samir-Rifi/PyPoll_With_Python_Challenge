@@ -10,15 +10,18 @@ The Audit is meant to provide the commission with more insights on the election 
 There was a total of 369,711 votes cast in this congressional election.
 
 The breakdown of the votes per county, as well as the % was as following:
-![](County votes.png) 
+
+![](County_votes.png) 
 
 Denver had the largest number of votes.
 
 The breakdown of the number of votes and the percentage of the total votes each candidate received was as following:
-![](Candidates Votes.png) 
+
+![](Candidates_Votes.png) 
 
 The election was won by Diana DeGette, who got 272,892 votes, which represents 73.8% of the total votes.
-![](Election Winner.png)  
+
+![](Election_Winner.png)  
 
 ## Election-Audit Summary: 
 
